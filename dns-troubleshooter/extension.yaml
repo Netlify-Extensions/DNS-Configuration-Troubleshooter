@@ -1,0 +1,7 @@
+config:
+  slug: dns-troubleshooter
+  name: dns-troubleshooter
+  ui:
+    surfaces:
+      - extension-team-configuration
+      - extension-top-level-site-configuration
